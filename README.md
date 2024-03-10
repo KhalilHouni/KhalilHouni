@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 En formation de developer full stack<br>👯 En recherche d'alternance<br>🌱En train d'apprendre le  Java et Php<br>
+🔭 En formation de developper fullStack<br>👯 En recherche d'alternance<br>🌱En train d'apprendre le  Java et Php<br>
 
 
 ## 🌐 Socials:
