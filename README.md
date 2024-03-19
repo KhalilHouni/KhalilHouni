@@ -21,7 +21,10 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+  
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KhalilHouni&icon=5&color=9)](https://visitcount.itsvg.in)
+</div>
+
