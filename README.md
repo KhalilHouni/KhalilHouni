@@ -20,6 +20,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalilHouni&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhalilHouni&theme=shades-of-purple&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilHouni&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
