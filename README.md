@@ -1,3 +1,12 @@
+<div align="center">
+
+<h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" height="30"> Bienvenue sur ma page profil ! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" height="30"></h2>
+  <img src="https://readme-typing-svg.herokuapp.com?&lines=En+recherche+d+'+alternance;Developpeur+Fullstack&center=true&repeat=false&width=500&duration=6000&pause=3000">
+
+</div>
+
+
+
 # 💫 About Me:
 🔭Ancien étudiant en licence de physique. En réorientation dans le domaine de l'informatique.En formation FullStack à Ada tech School (Bac +3 concepteur
 développeur d'application).<br>
