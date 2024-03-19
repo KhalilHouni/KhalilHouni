@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭En formation FullStack à Ada tech School (Bac +3 concepteur
+🔭Ancien étudiant en licence de physique. En réorientation dans le domaine de l'informatique.En formation FullStack à Ada tech School (Bac +3 concepteur
 développeur d'application).<br>
 
 🌱En recherche active d'une opportunité d'alternance pour une
