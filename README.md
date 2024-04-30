@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2> Bienvenue sur ma page profil !</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?&lines=En+recherche+d+'+alternance;Developpeur+Fullstack&center=true&repeat=false&width=500&duration=6000&pause=3000">
+  <img src="https://readme-typing-svg.herokuapp.com?&lines=En+recherche+d'+alternance;Developpeur+Fullstack&center=true&repeat=false&width=500&duration=6000&pause=3000">
 
 </div>
 
