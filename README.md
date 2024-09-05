@@ -8,7 +8,7 @@
 # 💫 About Me:
 🔭 Ancien étudiant en licence de physique. En réorientation dans le domaine de l'informatique.<br>
 🎓 En formation FullStack à Ada tech School (Bac +3 concepteur développeur d'application).<br>
-🌱 En recherche active d'une opportunité d'alternance pour une année à partir de juin 2024 ou en septembre  2024.<br>
+🌱 En recherche active d'une opportunité d'alternance pour une année à partir de septembre  2024.<br>
 
 
 ## 🌐 Socials:
